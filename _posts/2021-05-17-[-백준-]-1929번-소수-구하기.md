@@ -1,11 +1,12 @@
 ---
 categories:
-  - 코딩테스트
+  - Coding test
   - 백준
 tags:
   - 백준
-  - C++
-  - 알고리즘문제풀이
+  - codingTest
+  - cpp
+  - algorithm
 ---
 # 문제
 ___
