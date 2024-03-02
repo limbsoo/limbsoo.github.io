@@ -8,6 +8,7 @@ tags:
   - graphics
   - programming
   - cpp
+  - tutorial
 ---
 # 구현
 ---

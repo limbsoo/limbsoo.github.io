@@ -8,6 +8,7 @@ tags:
   - graphics
   - programming
   - cpp
+  - motionblur
 ---
 # 구현
 ---

@@ -3,6 +3,7 @@ categories:
   - 기타
 tags:
   - math
+  - motionblur
 ---
 # 필기
 ___

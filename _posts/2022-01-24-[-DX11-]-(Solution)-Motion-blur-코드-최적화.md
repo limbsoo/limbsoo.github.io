@@ -9,6 +9,7 @@ tags:
   - programming
   - cpp
   - solution
+  - motionblur
 ---
 # 문제
 ___

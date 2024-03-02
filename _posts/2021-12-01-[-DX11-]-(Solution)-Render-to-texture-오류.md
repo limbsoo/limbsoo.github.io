@@ -9,6 +9,7 @@ tags:
   - programming
   - cpp
   - solution
+  - tutorial
 ---
 # 문제
 ___
